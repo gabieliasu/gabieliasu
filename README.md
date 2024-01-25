@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá, pode me chamar de Gabi!
 
-<!--
-**gabieliasu/gabieliasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uma Recém-formada em Analista de Qa pela tripleten entrando na área da tecnologia.
 
-Here are some ideas to get you started:
+Obtive muito conhecimento no curso  que nos ensina realizar testes, documentar resultados,encontrar falhas de software, bugs e criar produtos seguros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho desejo em colaborar com projetos de terceiros para expandir experiências e aprendizado.
+
+curiosidades sobre mim:
+*Adoro treinar e me alimentar bem
+*Gosto de passar meu tempo livre com família e amigos
+*Sou carioca mas apaixonada num feijão tropeiro com costelinha de Minas Gerais 
+*Viciada no rodízio da minha churrascaria preferida
