@@ -4,7 +4,7 @@ Formada em Analista de Qa pela tripleten, em transição de carreira para a áre
 Adquiri conhecimento em Postman | Jira |Teste de API | Design de teste | SQL/ Banco de Dados | Testes de Web. Atualmente estudando Python.
 Além das habilidades técnicas, acredito firmemente que as habilidades interpessoais são fundamentais.
 
-Confira meus projetos! 
+Confira meus projetos no Github! 
 
 Caso queira, Fique a vontade para me chamar!🥰
 email: gabieliasu@hotmail.com 
