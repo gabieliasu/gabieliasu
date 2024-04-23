@@ -10,5 +10,6 @@ Caso queira, Fique a vontade para me chamar!🥰
 email: gabieliasu@hotmail.com 
 
 
+![image](https://github.com/gabieliasu/gabieliasu/assets/157239741/537df0b7-4182-456c-bb0d-e61b5b6bbe9d)
 
-![image](https://github.com/gabieliasu/gabieliasu/assets/157239741/3a725980-401e-4416-b63c-177ee2c96efb)
+
