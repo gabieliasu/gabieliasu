@@ -6,7 +6,7 @@ Uso essas minhas habilidades técnicas para atingir os melhores resultados entre
 
 Adquiri conhecimento em Postman | Jira |Teste de API | Design de teste | SQL/ Banco de Dados | Testes de Web. Atualmente estudando Python.
 
-Minhas habilidades interpessoais me ajudam na colaboração e trabalho em equipe, comuicação, resolução de problemas, adaptabilidade etc.
+Minhas habilidades interpessoais me ajudam na colaboração e trabalho em equipe, comuicação, resolução de problemas, pensamento analítico, compromisso com a excelência, adaptabilidade etc.
 
 Confira meus projetos! 
 
